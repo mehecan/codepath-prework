@@ -1,5 +1,5 @@
-## NAME_OF_YOUR_APP_HERE
 Turtleneck_Simulator
+
 ### App Description
 This app displays the text "Hello from Osvaldo" and allows the user to tap a button to change the text color
 and tap another button to change the background color.
